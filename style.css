@@ -82,14 +82,14 @@ footer {
 }
 
 .social-icon {
-    width: 40px;   /* Adjust size */
-    height: 40px;
-    margin: 0 10px; /* Space between icons */
+    width: 5px;   
+    height: 5px;
+    margin: 3px; 
     transition: transform 0.2s;
 }
 
 .social-icon:hover {
-    transform: scale(1.2); /* Slight zoom on hover */
+    transform: scale(1.2); 
 }
 
 /* Main Content Styling */
