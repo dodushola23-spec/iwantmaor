@@ -82,8 +82,8 @@ footer {
 }
 
 .social-icon {
-    width: 5px;   
-    height: 5px;
+    width: 5px;   /*width of icon*/
+    height: 5px;  /*height of icon*/
     margin: 3px; 
     transition: transform 0.2s;
 }
