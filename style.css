@@ -81,6 +81,17 @@ footer {
     color: #ff6600;
 }
 
+.social-icon {
+    width: 40px;   /* Adjust size */
+    height: 40px;
+    margin: 0 10px; /* Space between icons */
+    transition: transform 0.2s;
+}
+
+.social-icon:hover {
+    transform: scale(1.2); /* Slight zoom on hover */
+}
+
 /* Main Content Styling */
 main {
     padding: 50px 20px;
